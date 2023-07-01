@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>src/add1.png</file>
+        <file>src/del1.png</file>
+        <file>src/edit1.png</file>
+        <file>src/exit1.png</file>
+        <file>src/open1.png</file>
+        <file>src/save1.png</file>
+        <file>src/about.png</file>
+        <file>src/CONT.png</file>
+        <file>src/ico.png</file>
+    </qresource>
+</RCC>
